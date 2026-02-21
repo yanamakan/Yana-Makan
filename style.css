@@ -171,7 +171,7 @@ body {
 }
 
 .cta-button:hover {
-    background-color: #0052cc;
+    background-color: #ff319f;
     transform: translateY(-2px);
     box-shadow: 0 10px 25px rgba(0, 102, 255, 0.2);
 }
